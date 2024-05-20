@@ -1,7 +1,7 @@
 # dandelions
 pretty little flowers with a very cool seed dispersal parachute system.
 
-The image randomly updates every 4 hrs. The pyhton script in this repo, is what i use to udate the image. You'll need to add your own github username, personal access token, and repo info. you can probaly just find & replace all of the occurences of "dandelions" with whatever your repo is called / waht you want the main image to be called. 
+The image randomly updates every 4 hrs. The python script in this repo is what i use to udate the image. You'll need to add your own github username, personal access token, and repo info. you can probaly just find & replace all of the occurences of "dandelions" with whatever your repo is called / waht you want the main image to be called. 
 
 To add the image to a token, just use Safew wallet to create an image token with the main image url. 
 
